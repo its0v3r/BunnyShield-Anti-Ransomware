@@ -2,7 +2,6 @@
 
  Anti-ransomware software that uses a file system monitor, honeypots and the Linux audit service to detect and stop ransomware activity. Check the docs folder for more information.
 
-[![Travis branch](https://img.shields.io/cran/l/devtools.svg)](https://github.com/its0v3r/BunnyShield/blob/main/LICENSE)
 [![Travis branch](https://img.shields.io/badge/made%20with-%3C3-red.svg)](https://github.com/its0v3r/BunnyShield)
 
 # Features
