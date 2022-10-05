@@ -7,10 +7,15 @@
 # Features
 
 - Stops most ransomwares for UNIX Systems in seconds
+- Honeyfolder creation
 - Smart and dynamic honeyfile updates
+- Config to delete all honeyfiles in system
 - High false-positive discernment
 - Constat file system monitor
 - Checks for different events to trigger a ransomware scan
+- Slight to none performance impact
+- Functionality to try finding and delete the malicious file
+- Functionality to try finding and saving the ransomware key files
 - Able to recover recently encrypted files with "AutoDecrypter" (works, but still WIP)
 
 # How to use BunnyShield?
